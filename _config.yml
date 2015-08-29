@@ -10,20 +10,13 @@ url:
 # Owner/author information
 owner:
   name:           David Laughlin
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  avatar:         logo.png
+  bio:            "Software Developer originally from South Mississippi, now living in the great plains."
   email:          davidlaughlin@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:       http://www.facebook.com/davelaughlin
-  github:         http://github.com/david.laughlin
+  github:         david.laughlin
   stackexchange:  http://stackoverflow.com/users/295916/david-laughlin
-  linkedin:       https://www.linkedin.com/in/davelaughlin
-  instagram:
-  flickr:
-  tumblr:
-  # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  linkedin:       davelaughlin
 
 # Background image to be tiled on all pages
 background:
